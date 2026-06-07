@@ -1,1 +1,41 @@
-# Betik-Dilleri-2.-Hafta
+bet1
+
+dizi = ['Ali' , 'Eren' , 'Metin', 'Burak]
+
+def betik
+      while true
+            print(listem[sayac])
+            print(sayac)
+            sayac += 1
+     expect
+        pass
+  return sayac
+
+def trade(deger):
+    if deger<20:
+       print('lot ALIMI YAPILDI')
+    elif deger>80:
+       print('lot SATIŞI YAPILDI')
+    else
+       print('pozisyonu koru')
+
+bet2
+
+from main import *
+
+diziler=[
+['ali', 'veli', 'hasan', 'cemal', 'sıla', 'damla'],
+['hasan' , 'cemal' , 'sıla' , 'damla'],
+['sıla', 'damla']
+['ali' , 'veli' , 'hasan' , 'ali', 'veli', 'hasan', 'cemal', 'sıla' , 'damla'],
+['ali', 'veli' , 'hasan', 'cemal' , 'sıla' , 'damla']
+]
+for i in diziler:
+    rsi = betik(i)
+    trade(rsi)
+
+import random
+
+while True:
+     r=random.randint(1,100)
+     trade(r)
